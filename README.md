@@ -143,5 +143,4 @@ This project demonstrates strong skills in SQL analysis, data preprocessing, exp
 ---
 
 
-## Project Structure
 
